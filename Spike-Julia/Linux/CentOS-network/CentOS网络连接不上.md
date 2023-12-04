@@ -24,7 +24,7 @@
 
 **3.仍然不能`ssh`连接，先网络冲浪搜索解决方法，参考下面文章 **
 
-**[SSH远程连接不了服务器的故障及排查故障的步骤-叶宇梵-博客园 (cnblogs.com)](https://www.cnblogs.com/guobaiwang/articles/12610439.html)**
+**[SSH远程连接不了服务器的故障及排查故障的步骤-叶宇梵-博客园](https://www.cnblogs.com/guobaiwang/articles/12610439.html)**
 
 **"不能ping通，可以看一下network的服务状态",这句话起到帮助，果真是network服务failed**
 
@@ -63,3 +63,43 @@ service network restart
 * 再状态检测一下，发现OK了`active`被激活
 
 ![](https://github.com/Spike-Julia/markdown-photos/blob/main/Spike-Julia/Linux/CentOS-network/Snipaste_2023-12-04_13-30-39.png?raw=true)
+
+
+
+
+
+## 更新
+
+之前是改完网络配置文件，在进行上面操作。
+
+然后没有快照后，恢复到之前，又不能`ssh`连接，所以可以知道是配置文件的问题
+
+```shell
+vim /etc/sysconfig/network-scripts/ifcfg-ens33
+
+TYPE=Ethernet
+PROXY_METHOD=none
+BROWSER_ONLY=no
+BOOTPROTO=static							%
+DEFROUTE=yes
+IPV4_FAILURE_FATAL=no
+IPV6INIT=yes
+IPV6_AUTOCONF=yes
+IPV6_DEFROUTE=yes
+IPV6_FAILURE_FATAL=no
+IPV6_ADDR_GEN_MODE=stable-privacy
+NAME=ens33
+UUID=4bff26ab-5880-4751-9aac-4f98e45f1955	%
+DEVICE=ens33								
+ONBOOT=yes									%
+IPADDR=192.168.63.129						%
+NETMASK=255.255.255.0						%
+GATEWAY=192.168.63.2						%
+DNS2=192.168.63.2							%
+```
+
+![](https://github.com/Spike-Julia/markdown-photos/blob/main/Spike-Julia/Linux/CentOS-network/Snipaste_2023-12-04_14-56-18.png?raw=true)
+
+* 修改完后，重新启动network服务，就可以`ssh`连接了
+
+![](https://github.com/Spike-Julia/markdown-photos/blob/main/Spike-Julia/Linux/CentOS-network/Snipaste_2023-12-04_14-53-36.png?raw=true)
