@@ -84,7 +84,7 @@ Context Lines：上下文
 
 <img src="https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250126124007728.png" alt="image-20250126124007728" style="zoom: 50%;" />
 
-![image-20250126135518985](../../AppData/Roaming/Typora/typora-user-images/image-20250126135518985.png)
+![image-20250126135518985](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250126135518985.png)
 
 
 
@@ -163,17 +163,17 @@ html、JS(JavaScript)推荐2 spaces，python推荐4 spaces
 
 `Shift`+`Alt`+`P` 单独设置每个语言的配置`Preferences: Configure Language Specific Settings`
 
-![image-20250127130636696](../../AppData/Roaming/Typora/typora-user-images/image-20250127130636696.png)
+![image-20250127130636696](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250127130636696.png)
 
 `@`表示过滤，按照语言过滤
 
-![image-20250127130804673](../../AppData/Roaming/Typora/typora-user-images/image-20250127130804673.png)
+![image-20250127130804673](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250127130804673.png)
 
 左边是：全局更改设置
 
 右边是：特定的工作区或文件夹自定义设置
 
-![image-20250127130929242](../../AppData/Roaming/Typora/typora-user-images/image-20250127130929242.png)
+![image-20250127130929242](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250127130929242.png)
 
 再加`indentation`关键词
 
@@ -230,7 +230,7 @@ html、JS(JavaScript)推荐2 spaces，python推荐4 spaces
 
 `Ctrl`+`G`: 输入行号
 
-![image-20250128105854034](../../AppData/Roaming/Typora/typora-user-images/image-20250128105854034.png)
+![image-20250128105854034](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250128105854034.png)
 
 8. `Select Line`
 
@@ -362,7 +362,7 @@ Workspaces with Multiple Folders多文件夹工作区，多个文件夹不需要
 
 <img src="https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129123009254.png" alt="image-20250129123009254" style="zoom:50%;" />
 
-![image-20250129123112962](../../AppData/Roaming/Typora/typora-user-images/image-20250129123112962.png)
+![image-20250129123112962](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129123112962.png)
 
 my-app.js
 
@@ -372,7 +372,7 @@ my-app.js
 
 `F2`三次：`js`
 
-![image-20250129124606962](../../AppData/Roaming/Typora/typora-user-images/image-20250129124606962.png)
+![image-20250129124606962](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129124606962.png)
 
 
 
@@ -401,7 +401,7 @@ my-app.js
 
 对拓展进行筛选：
 
-![image-20250129155540573](../../AppData/Roaming/Typora/typora-user-images/image-20250129155540573.png)
+![image-20250129155540573](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129155540573.png)
 
 例子：Prettier
 
@@ -411,7 +411,7 @@ my-app.js
 
 **==Ctrl S==**保存的时候会自动以prettier的格式保存
 
-![image-20250129160228424](../../AppData/Roaming/Typora/typora-user-images/image-20250129160228424.png)
+![image-20250129160228424](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129160228424.png)
 
 
 
@@ -429,7 +429,7 @@ npm install prettier -D --save-exact # save-exact固定 package.json 文件中�
 
 [10. Popular Extension ESLint_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rprzYdEPt?vd_source=509f5667d0d25381a760e0b7794e7f12&spm_id_from=333.788.player.switch&p=75)
 
-![image-20250129175802336](../../AppData/Roaming/Typora/typora-user-images/image-20250129175802336.png)
+![image-20250129175802336](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129175802336.png)
 
 dot`.`表示当前目录，也可指定特定目录，
 
@@ -445,7 +445,7 @@ Live Server默认浏览器设置
 
 可以修改所有的插件配置：
 
-![image-20250129193033576](../../AppData/Roaming/Typora/typora-user-images/image-20250129193033576.png)
+![image-20250129193033576](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129193033576.png)
 
 
 
@@ -457,17 +457,17 @@ Live Server默认浏览器设置
 
 从真正的行数开始：
 
-![image-20250129194206721](../../AppData/Roaming/Typora/typora-user-images/image-20250129194206721.png)
+![image-20250129194206721](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129194206721.png)
 
-![image-20250129194302019](../../AppData/Roaming/Typora/typora-user-images/image-20250129194302019.png)
+![image-20250129194302019](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129194302019.png)
 
 window不带边框，container带边框
 
-![image-20250129194519096](../../AppData/Roaming/Typora/typora-user-images/image-20250129194519096.png)
+![image-20250129194519096](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129194519096.png)
 
 透明背景，适合制作PPT
 
-![image-20250129194656698](../../AppData/Roaming/Typora/typora-user-images/image-20250129194656698.png)
+![image-20250129194656698](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129194656698.png)
 
 
 
@@ -488,7 +488,7 @@ window不带边框，container带边框
 **==Code Snippets==**
 
 代码片段是**==预先编写==**的代码片段
-![image-20250129212016790](../../AppData/Roaming/Typora/typora-user-images/image-20250129212016790.png)
+![image-20250129212016790](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129212016790.png)
 
 
 
@@ -510,11 +510,11 @@ placeholder ==占位符=
 
 `Configure snippets`
 
-![image-20250129214334310](../../AppData/Roaming/Typora/typora-user-images/image-20250129214334310.png)
+![image-20250129214334310](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129214334310.png)
 
 function_name:占位符
 
-![image-20250129215419272](../../AppData/Roaming/Typora/typora-user-images/image-20250129215419272.png)
+![image-20250129215419272](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129215419272.png)
 
 
 
@@ -522,7 +522,7 @@ function_name:占位符
 
 `Ctrl`+`Shift`+`P`打开命令面板,输入`Insert snippets`
 
-![image-20250129221425785](../../AppData/Roaming/Typora/typora-user-images/image-20250129221425785.png)
+![image-20250129221425785](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250129221425785.png)
 
 
 
@@ -644,29 +644,29 @@ quick review
 
 删除仓库`.git`：
 
-![image-20250205175811204](../../AppData/Roaming/Typora/typora-user-images/image-20250205175811204.png)
+![image-20250205175811204](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205175811204.png)
 
 版本和版本控制丢弃，文件仍然存在
 
 需要刷新
 
-![image-20250205180421131](../../AppData/Roaming/Typora/typora-user-images/image-20250205180421131.png)
+![image-20250205180421131](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205180421131.png)
 
 悬浮，观察按钮作用
 
-![image-20250205180922304](../../AppData/Roaming/Typora/typora-user-images/image-20250205180922304.png)
+![image-20250205180922304](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205180922304.png)
 
-![image-20250205181004192](../../AppData/Roaming/Typora/typora-user-images/image-20250205181004192.png)
+![image-20250205181004192](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205181004192.png)
 
-![image-20250205181025922](../../AppData/Roaming/Typora/typora-user-images/image-20250205181025922.png)
+![image-20250205181025922](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205181025922.png)
 
 整个改变：
 
-![image-20250205181113186](../../AppData/Roaming/Typora/typora-user-images/image-20250205181113186.png)
+![image-20250205181113186](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205181113186.png)
 
 暂存区后，改变：
 
-![image-20250205181336513](../../AppData/Roaming/Typora/typora-user-images/image-20250205181336513.png)
+![image-20250205181336513](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205181336513.png)
 
 
 
@@ -680,7 +680,7 @@ commit`Ctrl`+`Enter`：
 
 撤回修改：
 
-![image-20250205194332143](../../AppData/Roaming/Typora/typora-user-images/image-20250205194332143.png)
+![image-20250205194332143](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205194332143.png)
 
 查看文件结构：
 
@@ -702,13 +702,13 @@ commit`Ctrl`+`Enter`：
 
 固定当前时间轴
 
-![image-20250205195408712](../../AppData/Roaming/Typora/typora-user-images/image-20250205195408712.png)
+![image-20250205195408712](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205195408712.png)
 
 远程`github`建立仓库：
 
-![image-20250205195517534](../../AppData/Roaming/Typora/typora-user-images/image-20250205195517534.png)
+![image-20250205195517534](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205195517534.png)
 
-![image-20250205195637323](../../AppData/Roaming/Typora/typora-user-images/image-20250205195637323.png)
+![image-20250205195637323](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205195637323.png)
 
 <img src="https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205195657154.png" alt="image-20250205195657154" style="zoom: 50%;" />
 
@@ -776,15 +776,15 @@ switch branches：
 
 push 分支之前，确保选正确的分支
 
-![image-20250205210216114](../../AppData/Roaming/Typora/typora-user-images/image-20250205210216114.png)
+![image-20250205210216114](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205210216114.png)
 
 然后再pull或者push
 
-![image-20250205210525408](../../AppData/Roaming/Typora/typora-user-images/image-20250205210525408.png)
+![image-20250205210525408](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205210525408.png)
 
 MERGE：选好主分支
 
-![image-20250205211031706](../../AppData/Roaming/Typora/typora-user-images/image-20250205211031706.png)
+![image-20250205211031706](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205211031706.png)
 
 <img src="https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205210922163.png" alt="image-20250205210922163" style="zoom:50%;" />
 
@@ -800,7 +800,7 @@ MERGE：选好主分支
 
 先确保选对分支
 
-![image-20250205210216114](../../AppData/Roaming/Typora/typora-user-images/image-20250205210216114.png)
+![image-20250205210216114](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205210216114.png)
 
 <img src="https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205211311552.png" alt="image-20250205211311552" style="zoom:50%;" />
 
@@ -816,7 +816,7 @@ delete branch删除分支
 
 选好主分支：
 
-![image-20250205211031706](../../AppData/Roaming/Typora/typora-user-images/image-20250205211031706.png)
+![image-20250205211031706](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205211031706.png)
 
 <img src="https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205211740024.png" alt="image-20250205211740024" style="zoom: 67%;" />
 
@@ -826,7 +826,7 @@ GitHub的云分支，只能去GitHub删除
 
 <img src="https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205211935453.png" alt="image-20250205211935453" style="zoom: 67%;" />
 
-![image-20250205211955100](../../AppData/Roaming/Typora/typora-user-images/image-20250205211955100.png)
+![image-20250205211955100](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205211955100.png)
 
 
 
@@ -854,9 +854,9 @@ GitHub的云分支，只能去GitHub删除
 
 `Ctrl`+`Shift`+`M`
 
-![image-20250205225812425](../../AppData/Roaming/Typora/typora-user-images/image-20250205225812425.png)
+![image-20250205225812425](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205225812425.png)
 
-![image-20250205225932945](../../AppData/Roaming/Typora/typora-user-images/image-20250205225932945.png)
+![image-20250205225932945](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205225932945.png)
 
 <img src="https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250205225942012.png" alt="image-20250205225942012" style="zoom:67%;" />
 
@@ -888,7 +888,7 @@ watch：观察断点处是否满足特定条件
 
 debugging process:
 
-![image-20250206125902388](../../AppData/Roaming/Typora/typora-user-images/image-20250206125902388.png)
+![image-20250206125902388](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250206125902388.png)
 
 配置：
 
@@ -926,7 +926,7 @@ debugging process:
 
 
 
-![image-20250206202830260](../../AppData/Roaming/Typora/typora-user-images/image-20250206202830260.png)
+![image-20250206202830260](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250206202830260.png)
 
 <img src="https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250206202839171.png" alt="image-20250206202839171" style="zoom:50%;" />
 
@@ -950,9 +950,9 @@ debugging process:
 2. `Uncaught Exceptions`:Break when the process is exiting due to unhandled exception.
 3. `User Uncaught Exceptions`:Break when exception escapes into library code
 
-![image-20250207135640242](../../AppData/Roaming/Typora/typora-user-images/image-20250207135640242.png)
+![image-20250207135640242](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250207135640242.png)
 
-![image-20250207135956668](../../AppData/Roaming/Typora/typora-user-images/image-20250207135956668.png)
+![image-20250207135956668](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250207135956668.png)
 
 :heavy_plus_sign:Add Function Breakpoint
 
@@ -962,7 +962,7 @@ debugging process:
 
 ### function breakpoint::small_red_triangle:
 
-![image-20250207141213438](../../AppData/Roaming/Typora/typora-user-images/image-20250207141213438.png)
+![image-20250207141213438](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250207141213438.png)
 
 
 
@@ -980,7 +980,7 @@ debugging process:
 
 ### Conditional Breakpoints
 
-![image-20250207144339223](../../AppData/Roaming/Typora/typora-user-images/image-20250207144339223.png)
+![image-20250207144339223](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250207144339223.png)
 
 表达式为真，执行断点
 
@@ -1008,7 +1008,7 @@ debugging process:
 
 单步执行step over后：
 
-![image-20250207145303822](../../AppData/Roaming/Typora/typora-user-images/image-20250207145303822.png)
+![image-20250207145303822](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250207145303822.png)
 
 ### Hit Count Breakpoints
 
@@ -1042,7 +1042,7 @@ debugging process:
 
 ### Variables Explorer
 
-![image-20250207201814433](../../AppData/Roaming/Typora/typora-user-images/image-20250207201814433.png)
+![image-20250207201814433](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250207201814433.png)
 
 
 
@@ -1050,7 +1050,7 @@ debugging process:
 
 <img src="https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250207202201725.png" alt="image-20250207202201725" style="zoom:50%;" />
 
-![image-20250207202442694](../../AppData/Roaming/Typora/typora-user-images/image-20250207202442694.png)
+![image-20250207202442694](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250207202442694.png)
 
 1. 光标选中后，选中行以及后续到下一个cell
 2. 光标行尾后，后续内容到下一个cell
@@ -1071,11 +1071,11 @@ debugging process:
 
 `Ctrl`+`Shift`+`V`:预览
 
-![image-20250207203305809](../../AppData/Roaming/Typora/typora-user-images/image-20250207203305809.png)
+![image-20250207203305809](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250207203305809.png)
 
 把照片拖到编辑器里
 
-![image-20250207210235711](../../AppData/Roaming/Typora/typora-user-images/image-20250207210235711.png)
+![image-20250207210235711](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250207210235711.png)
 
 <img src="https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250207210352432.png" alt="image-20250207210352432" style="zoom:50%;" />
 
@@ -1155,7 +1155,7 @@ open link:arrow_forward:在线版本的visual studio code
 
 <img src="https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250208000959136.png" alt="image-20250208000959136" style="zoom: 50%;" />
 
-![image-20250208001029796](../../AppData/Roaming/Typora/typora-user-images/image-20250208001029796.png)
+![image-20250208001029796](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250208001029796.png)
 
 <img src="https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250208001236519.png" alt="image-20250208001236519" style="zoom:67%;" />
 
@@ -1289,7 +1289,7 @@ move line up and down
 
 <img src="https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250208114702122.png" alt="image-20250208114702122" style="zoom:50%;" />
 
-![image-20250208114729829](../../AppData/Roaming/Typora/typora-user-images/image-20250208114729829.png)
+![image-20250208114729829](https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/image-20250208114729829.png)
 
 
 
