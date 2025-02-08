@@ -5,7 +5,7 @@ import re
 markdown_file_path = 'vscode界面认识.md'
 
 # GitHub存储路径的基础URL
-github_base_url = "https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/"
+github_base_url = "https://github.com/Spike-Julia/markdown-photos/blob/8bdcbe9f81eb6f3025270f476653c58ae4292b19/Spike-Julia/Visual%20Stuido%20Code%20develop/photos/"
 
 # 读取Markdown文件
 with open(markdown_file_path, 'r', encoding='utf-8') as file:
